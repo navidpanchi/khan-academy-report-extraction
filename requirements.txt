@@ -1,0 +1,8 @@
+notebook
+xlrd
+selenium
+pandas
+openpyxl
+pillow
+beautifulsoup4
+helium
